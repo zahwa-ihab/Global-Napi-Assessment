@@ -1,0 +1,60 @@
+
+a:hover {
+  color: rgb(10, 8, 9);
+}
+a:active {
+  color: blue;
+}
+.nav-link{
+  color: blue;
+}  
+
+#intro{
+height: 100%;
+background-image: url(images/background.jpg);
+height: 600px;
+}
+.h2{
+  margin-top: 0px;
+  padding-top: 0px;
+}
+.full-bg-img{
+  height: 100%;
+  background-image: url(images/background.jpg);
+  }
+
+
+ body{
+   padding:0;
+   margin:0;
+  }
+.navbar{
+opacity: 50%;
+
+}
+#intro-words{
+ color: white;
+ font-size: 80px;
+ padding-top: 70px;
+ text-align: center;
+}
+
+.h5-wordss{
+  color: rgb(248, 182, 198);
+  font-size:60px;
+  padding-top: 70px;
+  text-align: center;
+}
+  
+.card{
+  width: 800px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin-bottom: 15px;
+  transition: width 2s, height 4s;
+
+}
+
+.card:hover {
+  width: 950px;
+  
+}
